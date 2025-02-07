@@ -1,0 +1,21 @@
+let user1 = {name: 'asc', username: 'sds', password: '1111'};
+let user2 = {name: 'adf', username: 'sds', password: '2222'};
+let user3 = {name: 'agh', username: 'sds', password: '3333'};
+let user4 = {name: 'aed', username: 'sds', password: '4444'};
+let user5 = {name: 'ghy', username: 'sds', password: '5555'};
+let user6 = {name: 'fgv', username: 'sds', password: '6666'};
+let user7 = {name: 'bnh', username: 'sds', password: '7777'};
+let user8 = {name: 'cnf', username: 'sds', password: '8888'};
+let user9 = {name: 'rmf', username: 'sds', password: '9999'};
+let user10 = {name: 'vmt', username: 'sds', password: '0000'};
+
+console.log(user1.password);
+console.log(user2.password);
+console.log(user3.password);
+console.log(user4.password);
+console.log(user5.password);
+console.log(user6.password);
+console.log(user7.password);
+console.log(user8.password);
+console.log(user9.password);
+console.log(user10.password);
