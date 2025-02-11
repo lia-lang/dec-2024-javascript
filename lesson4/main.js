@@ -112,7 +112,7 @@ foobar('okten3');
 // hw12
 // function swap(arr, i1, i2) {
 //     if (i1 < arr.length && i2 < arr.length) {
-//         let temp = arr[11];
+//         let temp = arr[i1];
 //         arr[i1] = arr[i2];
 //         arr[i2] = temp;
 //
